@@ -16,7 +16,7 @@ https://www.linkedin.com/in/andrewscoppa/
 
 [Tokenizer](https://platform.openai.com/tokenizer)
 
-[Tools](https://platform.openai.com/docs/)
+[Docs](https://platform.openai.com/docs/)
 
 ## Copilot Resources
 
