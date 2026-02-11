@@ -1,9 +1,10 @@
-# Welcome to GitHub Copilot Developer Training
+# GitHub Copilot Developer Training for Riskonnect
 
 Andrew Scoppa
 
 andrew.scoppa@atmosera.com
-LinkedIn: https://www.linkedin.com/in/andrewscoppa/
+
+https://www.linkedin.com/in/andrewscoppa/
 
 ## GitHub Copilot CLI
 
