@@ -1,0 +1,1 @@
+This app is designed to read the test-scores.json file. Any errors will be displayed to the console. Use copilot to assist in finding the errors and fixing them. The app should be able to read the file and display the test scores in a readable format.
