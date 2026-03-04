@@ -39,6 +39,8 @@ https://www.linkedin.com/in/andrewscoppa/
 
 [Concepts for GitHub Copilot agents](https://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/agents)
 
+[Agent Management](https://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/agents/coding-agent/agent-management)
+
 [Integrate AI agents](https://docs.github.com/en/enterprise-cloud@latest/copilot/tutorials/roll-out-at-scale/enable-developers/integrate-ai-agents)
 
 [GitHub Agentic Workflows](https://github.github.com/gh-aw/)
